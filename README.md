@@ -1,9 +1,9 @@
 <h1 align="center">
-  <br>
-  <a href="https://github.com/entcloudcom/StarVault/"><img src="https://raw.githubusercontent.com/entcloudcom/StarVault/master/assets/img/logo.png" alt="StarVault" width="200"></a>
-  <br>
+  <br />
+  <a href="https://github.com/entcloudcom/StarVault/"><img src="https://raw.githubusercontent.com/entcloudcom/StarVault/master/assets/img/logo.png" alt="StarVault" width="200" /></a>
+  <br />
     StarVault
-  <br>
+  <br />
 </h1>
 
 <h4 align="center">A lightweight, privacy-focused Github stars manager with power filtering. All data stored locally. Filter function can work in offline mode after data synced locally.</h4>
@@ -11,10 +11,14 @@
 <p align="center">
   <a href="https://github.com/entcloudcom/StarVault/">
     <img src="https://img.shields.io/github/v/release/entcloudcom/StarVault"
-         alt="StarVault">
+         alt="StarVault" />
   </a>
-  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-  [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+  <a href="#">
+      <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
+  </a>
   <a href="https://www.paypal.me/leopku">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
