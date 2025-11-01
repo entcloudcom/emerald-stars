@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="StarVault" width="200"></a>
+  <a href="https://github.com/entcloudcom/StarVault/"><img src="https://raw.githubusercontent.com/entcloudcom/StarVault/master/assets/img/logo.png" alt="StarVault" width="200"></a>
   <br>
     StarVault
   <br>
@@ -9,11 +9,10 @@
 <h4 align="center">A lightweight, privacy-focused Github stars manager with power filtering. All data stored locally. Filter function can work in offline mode after data synced locally.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
+  <a href="https://github.com/entcloudcom/StarVault/">
+    <img src="https://img.shields.io/badge/release-1.0.1-blue"
+         alt="StarVault">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
 
   <a href="https://www.paypal.me/leopku">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
@@ -27,7 +26,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/entcloudcom/StarVault/master/assets/screenshot.png)
 
 ## Key Features
 
