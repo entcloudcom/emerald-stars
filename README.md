@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/entcloudcom/StarVault/">
-    <img src="https://img.shields.io/badge/release-1.0.1-blue"
+    <img src="https://img.shields.io/github/v/release/entcloudcom/StarVault"
          alt="StarVault">
   </a>
 
